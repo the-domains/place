@@ -1,5 +1,8 @@
+name: place
+favicon: null
+layout_spectrum: 0.2907268
+typography_spectrum: 0.49615
 title: not all those who wander are lost
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.4586466
-  brandStrength: 0.485589
-  lightness: 0.7424812
-  brandColors:
-    - '#5C545C'
-    - '#88889A'
-    - '#F2CFBD'
-    - '#786E31'
-    - '#52231B'
-  rhythmicContrast: 0.4711779
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: place
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.49615
-layout_spectrum: 0.2907268
+color:
+  brandColors:
+    - '#5a4c4b'
+    - '#ece3e8'
+    - '#a29696'
+    - '#bf638a'
+    - '#9f3c58'
+  brandStrength: 0.5
+  lightness: 0.7424812
+  saturation: 0.4586466
+  rhythmicContrast: 0.4711779
+purpose: []
