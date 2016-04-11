@@ -4,7 +4,7 @@
         <description><![CDATA[not all those who wander are lost]]></description>
         <link>https://thegrid.ai/place/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 12:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 12:25:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/place/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/place/6bf1fc23-908f-465f-9317-397045890555/index.html</link>
             <guid isPermaLink="false">6bf1fc23-908f-465f-9317-397045890555</guid>
             <pubDate>Mon, 11 Apr 2016 12:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f899bc4-f4a1-43d1-9d9f-848e5fe1d0b4.jpg">]]></description>
-            <link>https://thegrid.ai/place/good-morning-welcome-to-my-place/index.html</link>
-            <guid isPermaLink="false">85e0e13e-bd7c-4e4e-879e-40b535842c02</guid>
-            <pubDate>Mon, 11 Apr 2016 12:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
